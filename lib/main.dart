@@ -23,7 +23,8 @@ class BusinessCard extends StatelessWidget {
               //  vertical: 10.0,                   //setar igual de 2 lados
               //  horizontal: 50.0,
               //),
-              margin: EdgeInsets.fromLTRB(30, 10, 20, 50) //uma por uma
+              margin: EdgeInsets.fromLTRB(30, 10, 20, 50), //uma por uma
+              padding: EdgeInsets.all(20.0),
             ),
           ),
         )
